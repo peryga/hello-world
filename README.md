@@ -1,3 +1,3 @@
 # hello-world
 
-Just another repository for testing purposes only
+Just another repository - for testing purposes only ;)
